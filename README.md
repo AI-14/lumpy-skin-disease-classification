@@ -20,8 +20,8 @@ Binary classification of lumpy skin disease (imbalanced dataset) using ML algori
 ## Installation And Usage <a name="installation-usage"></a>  
 - Requirements:
    - `python >= 3.6`
-- `git clone https://github.com/AI-14/credit-card-fraud-detection.git` - clones the repository
-- `cd credit-card-fraud-detection`
+- `git clone https://github.com/AI-14/lumpy-skin-disease-classification.git` - clones the repository
+- `cd lumpy-skin-disease-classification`
 - `py -m venv yourVenvName` - creates a virtual environment
 - `yourVenvName\Scripts\activate.bat` - activates the virtual environment
 - `pip install -r requirements.txt` - installs all modules
