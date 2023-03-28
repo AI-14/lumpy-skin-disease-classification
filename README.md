@@ -9,7 +9,7 @@
   
 Course Project: ICS 485/211 - Machine Learning
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Installation and Usage](#installation-usage)
 3. [Team Member](#team-member)
