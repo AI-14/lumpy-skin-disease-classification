@@ -1,11 +1,4 @@
-# Lumpy-Skin-Disease-Classification
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566be8?style=flat)
-![Oversampling](https://img.shields.io/badge/-Oversampling-blue?style=flat)
-![Undersampling](https://img.shields.io/badge/-Undersampling-blue?style=flat)
-![SMOTE](https://img.shields.io/badge/-SMOTE-yellow?style=flat)
-![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
+# Lumpy Skin Disease Classification
   
 Course Project: ICS 485/211 - Machine Learning
 
